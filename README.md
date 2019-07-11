@@ -1,5 +1,5 @@
 # object-detection
-Simple trial code for AAT object detection project. Based on [Tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection), picked out the key code and did some modifications, visualized the counting data to the video screen.
+Simple trial code for AAT object detection project. Based on [Tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection), picked out the key code and did some modifications, visualized the counting data to the video screen. Traffic video captured from Youtube Channel [Jackson Hole Wyoming USA Town Square Live Cam - SeeJH.com](https://www.youtube.com/watch?v=1EiC9bvVGnk)
 
 ## Preview
 ![gif](https://github.com/sjhhh3/object-detection/blob/master/sample.gif)
