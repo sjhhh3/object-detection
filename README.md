@@ -1,5 +1,5 @@
 # object-detection
-Simple trial for AAT object detection project. Based on [Tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection), picked out the key code and did some modification, visualized the counting data to the video screen.
+Simple trial code for AAT object detection project. Based on [Tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection), picked out the key code and did some modifications, visualized the counting data to the video screen.
 
 ## Preview
 ![gif](https://github.com/sjhhh3/object-detection/blob/master/sample.gif)
